@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoltoRubato or Ryan (Kerui) Huang
+- 👋 Hi, I’m @MoltoRubato or Kerui (Ryan) Huang
 - 🌱 I’m currently studying german and computing and software systems in unimelb as a part of my undergraduate degree.
 - 📫 Email: ryanhuang1234567890@gmail.com
 - 📞 Phone: 0481971130

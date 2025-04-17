@@ -1,3 +1,5 @@
+
+```sql
 # 🚀 Hey! I'm Kerui (Ryan) Huang 🎮🎻
 # 💻 Computing & Software Systems Student @Unimelb
 # 🧠 Game Developer | 🎵 Music Creator | 🤖 Software Engineer
@@ -45,3 +47,4 @@ WHERE
 MoltoRubato/MoltoRubato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+```
